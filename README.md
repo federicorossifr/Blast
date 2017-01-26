@@ -12,7 +12,7 @@ Dependencies (execution only):
 	<li>JRE7+</li>
 </ul>
 
-Instruction:
+Runing instruction:
 <ul>
 	<li> Clone or download repository </li>
 	<li>Using bundled ./run.sh
@@ -28,3 +28,9 @@ Instruction:
 </ul>
 
 
+Compiling instructions:
+<ol>
+	<li>Clone or download repository</li>
+	<li>Compile sources: make all</li>
+	<li>Generate jar: make jar</li>
+</ol>
